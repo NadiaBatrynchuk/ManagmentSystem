@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\Repositories",
+    "\\DAL\\Repositories\\Impl",
+    "\\DAL\\Repositories\\Interfaces"
+  ],
+  "SelectedNode": "\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
