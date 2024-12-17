@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj": {}
+    "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj": {}
   },
   "projects": {
-    "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj": {
+    "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj",
+        "projectUniqueName": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj",
         "projectName": "DAL.Tests",
-        "projectPath": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj",
-        "packagesPath": "C:\\Users\\bigst\\.nuget\\packages\\",
-        "outputPath": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL.Tests\\obj\\",
+        "projectPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL.Tests\\DAL.Tests.csproj",
+        "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bigst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj": {
+                "projectPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -38,8 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -48,6 +57,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -78,7 +91,78 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
+        "outputPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nadia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwPei1/6Lm0=",
+  "dgSpecHash": "0Roe57b3Pbc=",
   "success": true,
-  "projectFilePath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\Lab7\\ManagementSystem\\DAL\\DAL.csproj",
+  "projectFilePath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nadia\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\Nadia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",

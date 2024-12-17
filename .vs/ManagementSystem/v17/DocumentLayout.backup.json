@@ -1,114 +1,122 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FREELANCE\\Lab7\\ManagementSystem\\",
+  "WorkspaceRootPath": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9BD911B-BA8D-4F8D-8584-54080FAB6E7F}|DAL.Tests\\DAL.Tests.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal.tests\\baserepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BD911B-BA8D-4F8D-8584-54080FAB6E7F}|DAL.Tests\\DAL.Tests.csproj|solutionrelative:dal.tests\\baserepositoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9BD911B-BA8D-4F8D-8584-54080FAB6E7F}|DAL.Tests\\DAL.Tests.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal.tests\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BD911B-BA8D-4F8D-8584-54080FAB6E7F}|DAL.Tests\\DAL.Tests.csproj|solutionrelative:dal.tests\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\taskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\itaskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\itaskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\itaskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\taskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\ef\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\ef\\managementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\managementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\impl\\taskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\enums\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\enums\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|d:\\freelance\\lab7\\managementsystem\\dal\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\ef\\managementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\managementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\ef\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\itaskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\taskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\itaskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\itaskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\itaskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\taskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskpriorityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\taskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\taskcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|e:\\university\\3_course_5sem\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u04407\\managementsystem\\dal\\repositories\\impl\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7F36D1-CBBF-4286-B1D5-8BF8B6D74080}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\impl\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,238 +126,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserTaskRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\UserTaskRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\UserTaskRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\UserTaskRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\UserTaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:45:09.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITaskPriorityRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:00:57.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ITaskCategoryRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:59:44.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:58:57.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\UserRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\UserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\UserRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Title": "BaseRepositoryUnitTests.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL.Tests\\BaseRepositoryUnitTests.cs",
+              "RelativeDocumentMoniker": "DAL.Tests\\BaseRepositoryUnitTests.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL.Tests\\BaseRepositoryUnitTests.cs*",
+              "RelativeToolTip": "DAL.Tests\\BaseRepositoryUnitTests.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:34:12.766Z",
+              "WhenOpened": "2024-12-17T23:05:05.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskStatusRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "TestUserRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL.Tests\\TestUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL.Tests\\TestUserRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL.Tests\\TestUserRepository.cs*",
+              "RelativeToolTip": "DAL.Tests\\TestUserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:31:18.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskRepository.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:40:13.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:53:35.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:56:19.121Z",
+              "WhenOpened": "2024-12-17T22:59:51.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ITaskStatusRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:28:26.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserTaskRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:58:23.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TaskPriorityRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:43:51.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "DAL\\Enums\\TaskStatus.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskStatus.cs",
-              "RelativeToolTip": "DAL\\Enums\\TaskStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T17:27:25.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:58:21.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\User.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\User.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\User.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\User.cs",
               "RelativeToolTip": "DAL\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T16:45:43.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ManagementSystemContext.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\EF\\ManagementSystemContext.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\ManagementSystemContext.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\EF\\ManagementSystemContext.cs",
-              "RelativeToolTip": "DAL\\EF\\ManagementSystemContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACgAAAAJAAAA",
+              "DocumentIndex": 8,
+              "Title": "UserTask.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\UserTask.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserTask.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\UserTask.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:04:56.631Z",
+              "WhenOpened": "2024-12-10T14:43:15.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "DAL\\Enums\\Role.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\Role.cs",
+              "RelativeToolTip": "DAL\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:44:01.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskCategory.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskCategory.cs",
+              "RelativeDocumentMoniker": "DAL\\Enums\\TaskCategory.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskCategory.cs",
+              "RelativeToolTip": "DAL\\Enums\\TaskCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:45:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "DAL\\Enums\\TaskPriority.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "DAL\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:45:25.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "DAL\\Enums\\TaskStatus.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Enums\\TaskStatus.cs",
+              "RelativeToolTip": "DAL\\Enums\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:27:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:58:21.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:58:57.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Task.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\Task.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\Task.cs",
               "RelativeDocumentMoniker": "DAL\\Entities\\Task.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\Task.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Entities\\Task.cs",
               "RelativeToolTip": "DAL\\Entities\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:28:54.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
+              "Title": "ManagementSystemContext.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\EF\\ManagementSystemContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\ManagementSystemContext.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\EF\\ManagementSystemContext.cs",
+              "RelativeToolTip": "DAL\\EF\\ManagementSystemContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:04:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "EFUnitOfWork.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\EF\\EFUnitOfWork.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\EF\\EFUnitOfWork.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\EFUnitOfWork.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\EF\\EFUnitOfWork.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\EF\\EFUnitOfWork.cs",
               "RelativeToolTip": "DAL\\EF\\EFUnitOfWork.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAPAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T15:54:32.037Z",
               "EditorCaption": ""
@@ -357,118 +300,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "TaskPriority.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskPriority.cs",
-              "RelativeDocumentMoniker": "DAL\\Enums\\TaskPriority.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskPriority.cs",
-              "RelativeToolTip": "DAL\\Enums\\TaskPriority.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\UserRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:45:25.772Z",
+              "WhenOpened": "2024-12-10T15:34:12.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\RoleRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\RoleRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\RoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:42:35.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserTask.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\UserTask.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\UserTask.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Entities\\UserTask.cs",
-              "RelativeToolTip": "DAL\\Entities\\UserTask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:43:15.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "TaskCategoryRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:44:30.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 14,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "DAL\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeToolTip": "DAL\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T15:47:12.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DAL",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\DAL.csproj",
+              "DocumentIndex": 15,
+              "Title": "ITaskStatusRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:26.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskStatusRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskStatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:31:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\DAL.csproj",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-10T15:02:40.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaskPriorityRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:00:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:56:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserTaskRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:58:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:53:35.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITaskCategoryRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\ITaskCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:59:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:48:24.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TaskCategory.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskCategory.cs",
-              "RelativeDocumentMoniker": "DAL\\Enums\\TaskCategory.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\TaskCategory.cs",
-              "RelativeToolTip": "DAL\\Enums\\TaskCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "DocumentIndex": 24,
+              "Title": "UserTaskRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\UserTaskRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\UserTaskRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\UserTaskRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\UserTaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:45:53.872Z",
+              "WhenOpened": "2024-12-10T15:45:09.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:40:13.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\Role.cs",
-              "RelativeDocumentMoniker": "DAL\\Enums\\Role.cs",
-              "ToolTip": "D:\\FREELANCE\\Lab7\\ManagementSystem\\DAL\\Enums\\Role.cs",
-              "RelativeToolTip": "DAL\\Enums\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Title": "TaskPriorityRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskPriorityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:44:01.377Z",
+              "WhenOpened": "2024-12-10T15:43:51.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskCategoryRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\TaskCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:44:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Impl\\RoleRepository.cs",
+              "ToolTip": "E:\\University\\3_course_5sem\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u044F \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u04207\\ManagementSystem\\DAL\\Repositories\\Impl\\RoleRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Impl\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:42:35.506Z",
               "EditorCaption": ""
             }
           ]

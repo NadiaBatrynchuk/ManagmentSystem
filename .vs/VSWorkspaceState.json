@@ -6,6 +6,6 @@
     "\\DAL\\Repositories\\Impl",
     "\\DAL\\Repositories\\Interfaces"
   ],
-  "SelectedNode": "\\DAL\\Repositories\\Impl\\BaseRepository.cs",
+  "SelectedNode": "\\DAL\\Repositories\\Interfaces\\ITaskPriorityRepository.cs",
   "PreviewInSolutionExplorer": false
 }

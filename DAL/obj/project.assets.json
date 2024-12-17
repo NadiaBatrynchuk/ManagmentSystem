@@ -600,11 +600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\Lab7\\ManagementSystem\\DAL\\DAL.csproj",
+      "projectUniqueName": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\Lab7\\ManagementSystem\\DAL\\DAL.csproj",
+      "projectPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Nadia\\.nuget\\packages\\",
-      "outputPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\Lab7\\ManagementSystem\\DAL\\obj\\",
+      "outputPath": "E:\\University\\3_course_5sem\\Технологія розробки програмного забезпечення\\ЛР7\\ManagementSystem\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
